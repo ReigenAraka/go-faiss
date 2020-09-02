@@ -16,7 +16,7 @@ https://github.com/facebookresearch/faiss/blob/v1.6.3/c_api/INSTALL.md
 
 ```
 	git clone https://github.com/41tair/go-faiss
-	mv go-faiss/lib/libfaiss_c.so /usr/local/lib/libfaiss_c.go
+	mv go-faiss/lib/libfaiss_c.so /usr/local/lib/libfaiss_c.so
 ```
 
 ## Use in go
